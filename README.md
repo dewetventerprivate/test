@@ -3,6 +3,7 @@ currently on branch 1
 #2
 
 now in subbranch
+#1
 
 # test
 testing git
