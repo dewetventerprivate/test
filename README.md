@@ -1,4 +1,13 @@
+
 In master branch
+
+currently on branch 1
+#1
+#2
+#3
+
+now in subbranch
+#1
 
 # test
 testing git
